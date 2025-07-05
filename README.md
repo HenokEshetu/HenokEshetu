@@ -27,6 +27,7 @@ I thrive on solving complex problems with clean architecture and pragmatic code,
   - Tool Automation
   - Web Pentesting
   - Network Pentesting
+  - Training
   - HTB Games
 - **Full Stack Development**
   - Real-time Cyber Threat Intelligence Platform (Nest.js, FastAPI, React.js, GrpahQL, OpenSearch/ElasticSearch, Redis, PostgreSQL, ...)
