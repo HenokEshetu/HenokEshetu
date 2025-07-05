@@ -5,9 +5,9 @@ I'm a Cybersecurity Professional and Full Stack Developer passionate about build
 - **Network Security Engineering** (Firewalls, VPNs, MPLS, VRRP, SNMP, Cryptography)
 - **Threat Intelligence** & **SOC Analysis**
 - **Penetration Testing** & **System Engineering**
-- **Full Stack Development** (Go, Rust, Python, PHP, Bash, PowerShell)
+- **Full Stack Development** & **Automation** (Go, Rust, Python, PHP, Bash, PowerShell)
+- **Cryptography**
 - **Data Center Virtualization & Infrastructure Design**
-- **Automation & Scripting**
 
 I thrive on solving complex problems with clean architecture and pragmatic code, often leveraging Rust, Python, Bash, and Go for real-time threat intelligence platforms and system automation tools.
 
@@ -20,6 +20,24 @@ I thrive on solving complex problems with clean architecture and pragmatic code,
   - Data Center Design & Infrastructure  
   - Network Design (LAN/WAN, VPN, Load Balancing)  
   - Implementation of security protocols and redundancy
+- **Threat Intelligence** & **SOC Analysis**
+  - Real-time Cyber Threat Intelligence Platform (Nest.js, FastAPI, React.js, GrpahQL, OpenSearch/ElasticSearch, Redis, PostgreSQL, ...)
+  - SOC Analyst 1 - TryHackMe
+- **Penetration Testing** & **System Engineering**
+  - Tool Automation
+  - Web Pentesting
+  - Network Pentesting
+  - HTB Games
+- **Full Stack Development**
+  - Real-time Cyber Threat Intelligence Platform (Nest.js, FastAPI, React.js, GrpahQL, OpenSearch/ElasticSearch, Redis, PostgreSQL, ...)
+  - Tool Automation (Go, Rust, Python, PHP, Bash, PowerShell)
+  - DeepNet (Rust)
+  - Secured Note Taking App (Springboot, React.js, PostgreSQL, Cryptography)
+- **Cryptography**
+  - Secured Note Taking App (Springboot, React.js, PostgreSQL, Cryptography)
+- **Data Center Virtualization & Infrastructure Design**
+  - CloudSim simulation (Java)
+  - Ideal Secured Network Design For Enterprise Company with its configurations and simulations (Cisco Packet Tracer)
 
 ---
 
