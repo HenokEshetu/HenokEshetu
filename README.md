@@ -1,3 +1,5 @@
+<img src="https://github.com/HenokEshetu/HenokEshetu/blob/main/DLIG5374.JPG?raw=true" width="150" style="border-radius: 50%;" />
+
 # 👋 Hi, I’m Henok Eshetu
 
 I'm a Cybersecurity Professional and Full Stack Developer passionate about building secure, scalable, and efficient systems. My experience spans:
