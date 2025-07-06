@@ -1,4 +1,4 @@
-<img src="https://github.com/HenokEshetu/HenokEshetu/blob/main/DLIG5374.JPG?raw=true" width="150" style="border-radius: 50%;" />
+<img src="https://github.com/HenokEshetu/HenokEshetu/blob/main/DLIG5374.JPG?raw=true" width="350" style="border-radius: 50%;" />
 
 # 👋 Hi, I’m Henok Eshetu
 
