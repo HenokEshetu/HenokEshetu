@@ -73,6 +73,7 @@ Reading the Bible, playing the harp, chess, and reflective walks help fuel my fo
 ## 📫 Connect
 
 - henokeshetu2025@proton.me
+- [Portfolio Website](https://henokeshetuportfolio.vercel.app)
 - [LinkedIn](https://www.linkedin.com/in/henok-eshetu-284bba2b3)
 - [GitHub](https://github.com/HenokEshetu)
 - [Telegram](https://t.me/sulamatis_temeleshi)
